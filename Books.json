@@ -2,24 +2,21 @@
 "Book1":
 {
 "Title": "David Copperfield",
-"Authors": ["Charles Dickens"],
+"Authors": "Charles Dickens",
 "Publisher": "Wordsworth Editions Ltd",
 "Language": "English",
 "Pages": 768
 },
 "Book2":{
 "Title": "C how to program",
-"Authors": [
-"Havey Deitel",
-"Paul Deitel"
-],
+"Authors":"Havey Deitel","Paul Deitel",
 "Publisher": " Prentice Hall",
 "Language": "English",
 "Pages": 912
 },
 "Book3":{
 "Title": "12 Rules for life",
-"Authors": ["Jordan Peterson"],
+"Authors": "Jordan Peterson",
 "Publisher": "Penguin",
 "Language": "English",
 "Pages": 448
