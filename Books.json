@@ -1,27 +1,25 @@
 {
-   "root": {
-      "Book": [
-         {
-            "Authors": "Charles Dickens",
-            "Language": "English",
-            "Pages": "768",
-            "Publisher": "Wordsworth Editions Ltd",
-            "Title": "David Copperfield"
-         },
-         {
-            "Authors": "Havey Deitel,Paul Deitel",
-            "Language": "English",
-            "Pages": "912",
-            "Publisher": "Prentice Hall",
-            "Title": "C how to program"
-         },
-         {
-            "Authors": "Jordan Peterson",
-            "Language": "English",
-            "Pages": "448",
-            "Publisher": "Penguin",
-            "Title": "12 Rules for life"
-         }
-      ]
-   }
+"Book1":
+{
+"Title": "David Copperfield",
+"Authors": "Charles Dickens",
+"Publisher": "Wordsworth Editions Ltd",
+"Language": "English",
+"Pages": 768
+},
+"Book2":{
+"Title": "C how to program",
+"Authors":"Havey Deitel,Paul Deitel"
+ ,
+"Publisher": " Prentice Hall",
+"Language": "English",
+"Pages": 912
+},
+"Book3":{
+"Title": "12 Rules for life",
+"Authors": "Jordan Peterson",
+"Publisher": "Penguin",
+"Language": "English",
+"Pages": 448
+}
 }
