@@ -8,10 +8,7 @@
       <Title>David Copperfield</Title>
    </Book>
    <Book>
-      <Authors>
-         <element>Havey Deitel</element>
-         <element>Paul Deitel</element>
-      </Authors>
+      <Authors>Havey Deitel,Paul Deitel</Authors>
       <Language>English</Language>
       <Pages>912</Pages>
       <Publisher> Prentice Hall</Publisher>
