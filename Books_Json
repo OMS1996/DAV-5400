@@ -1,0 +1,28 @@
+{
+"Booksjson": [
+{
+"Title": "David Copperfield",
+"Authors": "Charles Dickens"
+"Publisher": "Wordsworth Editions Ltd",
+"Language": "English"
+"Pages"= 768
+},
+{
+"Title": "C how to program",
+"Authors": [
+"Havey Deitel",
+"Paul Deitel"
+],
+"Publisher": " Prentice Hall",
+"Language": "English"
+"Pages"= 912
+},
+{
+"Title": "12 Rules for life",
+"Authors": "Jordan B Peterson"
+"Publisher": "Penguin",
+"Language": "English"
+"Pages"= 448
+}
+]
+}
