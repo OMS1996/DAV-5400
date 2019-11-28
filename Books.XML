@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BooksXML>
+<book>
+<title>David Copperfield</title>
+<author>Charles Dickens</author>
+<publisher>Wordsworth Editions Ltd</publisher>
+<language>English</language>
+<pages>768</pages>
+</book>
+<book>
+<title>C how to program</title>
+<author>Harvey Deitel, Paul Deitel</author>
+<publisher> Prentice Hall</publisher>
+<language>English</language>
+<pages>912</pages>
+</book>
+<book>
+<title>12 Rules for Life </title>
+<author>Jordan Peterson</author>
+<publisher>Penguin</publisher>
+<language>English</language>
+<pages>448</pages>
+</book>
