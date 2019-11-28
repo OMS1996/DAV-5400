@@ -2,9 +2,9 @@
 "Booksjson": [
 {
 "Title": "David Copperfield",
-"Authors": "Charles Dickens"
+"Authors": "Charles Dickens",
 "Publisher": "Wordsworth Editions Ltd",
-"Language": "English"
+"Language": "English",
 "Pages": 768
 },
 {
@@ -14,14 +14,14 @@
 "Paul Deitel"
 ],
 "Publisher": " Prentice Hall",
-"Language": "English"
+"Language": "English",
 "Pages": 912
 },
 {
 "Title": "12 Rules for life",
 "Authors": "Jordan Peterson"
 "Publisher": "Penguin",
-"Language": "English"
+"Language": "English",
 "Pages": 448
 }
 ]
