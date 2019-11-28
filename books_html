@@ -1,0 +1,38 @@
+<html>
+<body>
+
+<h1>Books.html</h1>
+	<table>
+		<tr>
+			<th>Title</th>
+			<th>Authors</th> 
+			<th>Publisher</th>
+			<th>Language</th>
+      <th>Pages</th>
+		</tr>
+		<tr>
+			<td>David Copperfield</td>
+			<td>Charles Dickens</td> 
+			<td>Wordsworth Editions Ltd </td>
+			<td>English</td>
+      <td>768</td>
+		</tr>
+		<tr>
+			<td>C How to program</td>
+			<td>Paul Deitel, Harvey Deitel</td> 
+			<td>Prentice Hall; 7th edition</td>
+			<td>English</td>
+      <td>912</td>
+		</tr>
+		<tr>
+			<td>12 Rules for life an antidote to chaos</td>
+			<td>Dr. Jordan Peterson</td> 
+			<td>Penguin</td>
+			<td>English</td>
+      <td>448</td>
+		</tr>
+ 
+	</table> 
+
+</body>
+</html>
