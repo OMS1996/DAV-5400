@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <Book1>
+   <Book>
       <Authors>Charles Dickens</Authors>
       <Language>English</Language>
       <Pages>768</Pages>
       <Publisher>Wordsworth Editions Ltd</Publisher>
       <Title>David Copperfield</Title>
-   </Book1>
-   <Book2>
+   </Book>
+   <Book>
       <Authors>
          <element>Havey Deitel</element>
          <element>Paul Deitel</element>
@@ -16,12 +16,12 @@
       <Pages>912</Pages>
       <Publisher> Prentice Hall</Publisher>
       <Title>C how to program</Title>
-   </Book2>
-   <Book3>
+   </Book>
+   <Book>
       <Authors>Jordan Peterson</Authors>
       <Language>English</Language>
       <Pages>448</Pages>
       <Publisher>Penguin</Publisher>
       <Title>12 Rules for life</Title>
-   </Book3>
+   </Book>
 </root>
