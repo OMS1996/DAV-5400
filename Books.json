@@ -9,7 +9,8 @@
 },
 "Book2":{
 "Title": "C how to program",
-"Authors":"Havey Deitel","Paul Deitel",
+"Authors":["Havey Deitel","Paul Deitel"]
+ ,
 "Publisher": " Prentice Hall",
 "Language": "English",
 "Pages": 912
