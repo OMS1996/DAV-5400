@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<BooksXML>
-
-  <book id="1">
-      <title>David Copperfield</title>
-      <author>Charles Dickens</author>
-      <publisher>Wordsworth Editions Ltd</publisher>
-      <language>English</language>
-      <pages>768</pages>
- </book>
-
- <book id="2">
-      <title>C how to program</title>
-      <author>Harvey Deitel, Paul Deitel</author>
-      <publisher> Prentice Hall</publisher>
-      <language>English</language>
-      <pages>912</pages>
-</book>
-
- <book id="3">
-    <title>12 Rules for Life </title>
-    <author>Jordan Peterson</author>
-    <publisher>Penguin</publisher>
-    <language>English</language>
-    <pages>448</pages>
-</book>
-  
-</BooksXML> 
+<root>
+   <Book1>
+      <Authors>Charles Dickens</Authors>
+      <Language>English</Language>
+      <Pages>768</Pages>
+      <Publisher>Wordsworth Editions Ltd</Publisher>
+      <Title>David Copperfield</Title>
+   </Book1>
+   <Book2>
+      <Authors>
+         <element>Havey Deitel</element>
+         <element>Paul Deitel</element>
+      </Authors>
+      <Language>English</Language>
+      <Pages>912</Pages>
+      <Publisher> Prentice Hall</Publisher>
+      <Title>C how to program</Title>
+   </Book2>
+   <Book3>
+      <Authors>Jordan Peterson</Authors>
+      <Language>English</Language>
+      <Pages>448</Pages>
+      <Publisher>Penguin</Publisher>
+      <Title>12 Rules for life</Title>
+   </Book3>
+</root>
